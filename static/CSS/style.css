@@ -13,4 +13,18 @@ body{
 
 .nav-link{
     font-size: 20px;
+    color: white !important;
+}
+.nav-link:hover{
+    color: rgba(250, 244, 244, 0.664) !important;
+}
+
+.img-about{
+    background: url("../aboutPage.jpg") no-repeat center center/cover;
+    background-position: 100% 100%;
+}
+
+.img-contact{
+    background: url("../contactPhoto.jpg") no-repeat center center/cover;
+    background-position: 100% 100%;
 }
